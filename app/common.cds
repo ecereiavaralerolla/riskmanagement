@@ -6,7 +6,7 @@ annotate rm.Risks with {
     title  @title : 'Title';
     owner  @title : 'Owner';
     prio   @title : 'Priority';
-    descr  @title : 'Descriptionx';
+    descr  @title : 'Descriptionxx';
     miti   @title : 'Mitigation';
     impact @title : 'Impact';
     //### BEGIN OF INSERT
